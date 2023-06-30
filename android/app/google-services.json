@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912917160784",
+    "project_id": "dillmaneporiumofantiquitiesapp",
+    "storage_bucket": "dillmaneporiumofantiquitiesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912917160784:android:d1d0486b0fec6026f50255",
+        "android_client_info": {
+          "package_name": "com.example.dillmans_eporium_of_antiquities_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912917160784-q24f32cph2vphb2hd2q4qdfjd3vs3sin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7e-yfk1vPhN66fdSGpWjilEZf6wd6nRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912917160784-q24f32cph2vphb2hd2q4qdfjd3vs3sin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
